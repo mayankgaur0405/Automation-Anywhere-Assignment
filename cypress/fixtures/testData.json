@@ -1,0 +1,11 @@
+{
+  "botName": "TestBotByMayank1",
+  "learningInstance": {
+    "name": "Learning Instance 1",
+    "description": "Instance for invoice extraction 1",
+    "fields": {
+      "fieldName": "invoice_number",
+      "fieldLabel": "Invoice Number"
+    }
+  }
+}

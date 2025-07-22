@@ -1,0 +1,26 @@
+{
+  "name": "automation-anywhere-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankgaur0405/Automation-Anywhere-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mayankgaur0405/Automation-Anywhere-Assignment/issues"
+  },
+  "homepage": "https://github.com/mayankgaur0405/Automation-Anywhere-Assignment#readme",
+  "dependencies": {
+    "cypress": "^14.5.2",
+    "cypress-wait-until": "^3.0.2",
+    "dotenv": "^17.2.0"
+  }
+}
